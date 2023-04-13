@@ -10,8 +10,8 @@ public class newTests {
 
 	@Test
 	public void test() {
-		testPositives();
-		testNegatives();
+		testPositive();
+		testNegative();
 		testMixed();
 		testDuplicates();
 
