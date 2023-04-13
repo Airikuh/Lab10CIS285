@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
-public class testSelectionSort {
+public class newTests {
 
 	@Test
 	public void test() {
@@ -16,7 +16,7 @@ public class testSelectionSort {
 
 	}
 
-    public testSelectionSort() {
+    public newTests() {
     }
 		public void testPositive(){
         int[] arr = new int[5];
